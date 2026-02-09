@@ -5,7 +5,7 @@ Your Claude Code assistant now responds with classic Warcraft peon voice lines.
 ## Install
 
 ```bash
-git clone <repo-url> && cd claude-sounds && ./install.sh
+git clone https://github.com/alxmlv/claude-sounds.git && cd claude-sounds && ./install.sh
 ```
 
 ## Sound Mapping
