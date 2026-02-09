@@ -1,6 +1,6 @@
 # Claude Sounds - Warcraft Peon Edition
 
-Your Claude Code assistant now responds with classic Warcraft peon voice lines.
+Your Claude Code assistant now responds with classic Warcraft peon voice lines :)
 
 ## Install
 
